@@ -1,6 +1,5 @@
 import checkPropTypes from "check-prop-types";
 /**
- *
  * @param {ShallowWrapper} wrapper - Enzyme shallow wrapper.
  * @param {string} val - Valueof data-test attribute for search.
  * @returns {ShallowWrapper}

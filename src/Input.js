@@ -3,7 +3,11 @@ import { connect } from "react-redux";
 
 class Input extends Component {
   rener() {
-    return <div />;
+    return (
+      <div>
+        <button />
+      </div>
+    );
   }
 }
 
